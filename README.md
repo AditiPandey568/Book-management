@@ -64,5 +64,4 @@ This should provide a comprehensive overview of how to deploy, update, and rollb
 ## **Clone the Repository**
 To clone this repository to your local machine, run the following command:
 ```bash
-[
-](https://github.com/AditiPandey568/deployment-kubernates.git
+https://github.com/AditiPandey568/deployment-kubernates.git
